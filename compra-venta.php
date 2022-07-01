@@ -197,7 +197,7 @@
                                 <li style="list-style-type:disc"> <b>Km:</b> 180.000 km</li>
                                 <li style="list-style-type:disc"> <b>Carrocería:</b> Berlina</li>
                                 <li style="list-style-type:disc"> <b>Color:</b> Gris / Plata</li>
-                                <li style="list-style-type:disc"> <b>Plazas:</b> 5</li>
+                                <li style="list-style-type:disc"> <b>Plazas:</b>5</li>
                             </ul>
                         </div>
                         <div class="col  d-flex justify-content-center ">
