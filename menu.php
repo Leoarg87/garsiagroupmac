@@ -60,10 +60,10 @@
                             <button type="nav-link" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="color:#891A1A;background: none;">
                                 Alquiler de coches
                             </button>
-                            <div class="dropdown-menu dropdown-menu">
-                                <button class="dropdown-item" type="button"><a href="rentcar.php">Inicio</a></button>
-                                <button class="dropdown-item" type="button"><a href="rentcar.php#coches">Coches</a></button>
-                                <button class="dropdown-item" type="button"><a href="rentcar.php#furgonetas">Furgonetas</a></button>
+                            <div class="dropdown-menu dropdown-menu"style="position:relative">
+                                <a href="rentcar.php" class="dropdown-item">Inicio</a>
+                                <a href="rentcar.php#coches"class="dropdown-item">Coches</a>
+                                <a href="rentcar.php#furgonetas"class="dropdown-item">Furgonetas</a>
                             </div>
                         </div>
                     </li>
