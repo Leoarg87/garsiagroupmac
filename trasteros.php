@@ -20,7 +20,7 @@
     include("menu.php");
     ?>
     <div style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/trasteros/trasteros2.jpg); padding-top: 5%; padding-bottom: 5%; background-size: cover; background-position-y: center;">
-        <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">Miradell <br>Alquiler de trasteros</h1>
+        <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">MIRADELL <br>Alquiler de trasteros</h1>
        
 
     </div>
@@ -83,13 +83,13 @@
             </div>
 
             <div class="col">
-                <img src="img/lavado/.png" alt="tapiceria" class="img-fluid">
+                <img src="img/trasteros/trasteros3.jpg" alt="tapiceria" class="img-fluid">
  
             </div>
         </div>
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col">
-                <img src="img/lavado/.png" alt="pulido" class="img-fluid">
+                <img src="img/trasteros/entrada.jpeg" alt="pulido" class="img-fluid">
          
             </div>
             <div class="col align-self-center">
@@ -102,8 +102,10 @@
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col align-self-center">
                 <span style=" font-family: 'impact'; font-size:24px">Recepción de mercancías<br></span>
-                
                 <p style=" font-family: Poppins;letter-spacing: 0.01em;line-height: 1.6em;">Recibimos tu mercancia</p>
+                <span style=" font-family: 'impact'; font-size:24px">Garsia shop <br></span>
+                
+                <p style=" font-family: Poppins;letter-spacing: 0.01em;line-height: 1.6em;">Tenemos para ofrecerte cajas, estanterías, cerraduras, cinta adhesiva, etc...</p>
             </div>
 
             <div class="col">
@@ -113,13 +115,13 @@
         </div>
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col">
-                <img src="img/trasteros/trasteros1.jpg" alt="trasteros" class="img-fluid">
+                <img src="img/trasteros/oficina.jpeg" alt="trasteros" class="img-fluid">
          
             </div>
             <div class="col align-self-center">
-                <span style=" font-family: 'impact'; font-size:24px">Garsia shop <br></span>
+                <span style=" font-family: 'impact'; font-size:24px">Oficina <br></span>
                 
-                <p style=" font-family: Poppins;letter-spacing: 0.01em;line-height: 1.6em;">Tenemos para ofrecerte cajas, estanterías, cerraduras, cinta adhesiva, etc...</p>
+                <p style=" font-family: Poppins;letter-spacing: 0.01em;line-height: 1.6em;">Atención personalizada</p>
             </div>
 
         </div>
@@ -131,7 +133,7 @@
             </div>
 
             <div class="col">
-                <img src="img/trasteros/trasteros3.jpg" alt="almacen coches" class="img-fluid">
+                <img src="img/trasteros/almacencoches.jpeg" alt="almacen coches" class="img-fluid">
  
             </div>
         </div>
