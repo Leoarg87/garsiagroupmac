@@ -158,7 +158,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/MercedesClaseC/1.jpeg" class="d-block w-100 img-fluid" alt="MercedesClaseC">
@@ -176,11 +176,11 @@
                                         <img src="img/venta/MercedesClaseC/5.jpeg" class="d-block w-100 img-fluid" alt="MercedesClaseC">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls1" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls1" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -227,7 +227,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls2" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/FordMustang/1.jpeg" class="d-block w-100 img-fluid" alt="FordMustang">
@@ -245,11 +245,11 @@
                                         <img src="img/venta/FordMustang/5.jpeg" class="d-block w-100 img-fluid" alt="FordMustang">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls2" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls2" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -295,7 +295,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls3" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/MercedesClaseE/1.jpeg" class="d-block w-100 img-fluid" alt="MercedesClaseE">
@@ -313,11 +313,11 @@
                                         <img src="img/venta/MercedesClaseE/5.jpeg" class="d-block w-100 img-fluid" alt="MercedesClaseE">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls3" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls3" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -364,7 +364,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls4" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/Skoda/1.jpg" class="d-block w-100 img-fluid" alt="Skoda Fabia">
@@ -382,11 +382,11 @@
                                         <img src="img/venta/Skoda/5.jpg" class="d-block w-100 img-fluid" alt="Skoda Fabia">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls4" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls4" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -433,7 +433,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls5" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/Mazda/1.jpg" class="d-block w-100 img-fluid" alt="Mazda">
@@ -451,11 +451,11 @@
                                         <img src="img/venta/Mazda/5.jpg" class="d-block w-100 img-fluid" alt="Mazda">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls5" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls5" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -502,7 +502,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls6" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/volkswagen/1.jpg" class="d-block w-100 img-fluid" alt="volkswagen">
@@ -520,11 +520,11 @@
                                         <img src="img/venta/volkswagen/5.jpg" class="d-block w-100 img-fluid" alt="volkswagen">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls6" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls6" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -571,7 +571,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls7" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/audi/1.jpg" class="d-block w-100 img-fluid" alt="audi">
@@ -589,11 +589,11 @@
                                         <img src="img/venta/audi/5.jpg" class="d-block w-100 img-fluid" alt="audi">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls7" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls7" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -640,7 +640,7 @@
                 <div class="container d-flex justify-content-center mt-3">
                     <div class="col-5">
                         <span aria-hidden="true" class="d-flex justify-content-center">
-                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                            <div id="carouselExampleControls8" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="img/venta/mustangblanco/1.jpeg" class="d-block w-100 img-fluid" alt="mustangblanco">
@@ -658,11 +658,11 @@
                                         <img src="img/venta/mustangblanco/5.jpeg" class="d-block w-100 img-fluid" alt="mustangblanco">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev" href="#carouselExampleControls8" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next" href="#carouselExampleControls8" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>

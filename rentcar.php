@@ -42,7 +42,7 @@
     <?php
     include("menu.php");
     ?>
-    <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+    <div id="carouselExampleInterval" class="carousel slide mt-5" data-ride="carousel">
         <div class="carousel-inner" style="height:500px">
             <div class="carousel-item active" data-interval="2000">
                 <img src="img/coches/carrusel11.png" class="d-flex w-100" alt="...">
