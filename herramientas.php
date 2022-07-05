@@ -56,7 +56,7 @@
                 ?>
             </div>
             <div class="col-sm">
-                <img src="img/global/taladro.png" alt="radial" class="img-fluid  border rounded">
+                <img src="img/global/taladro.png" alt="Taladro" class="img-fluid  border rounded">
                 <p class="text-center">Taladro 750W 4Kgs</p>
                 <?php
                 include('whatsappherramientas.html');
@@ -69,7 +69,7 @@
         <div class="row ">
             <a name="amoladoras"></a>
             <div class="col-sm">
-                <img src="img/global/cortador.png" alt="radial" class="img-fluid  border rounded">
+                <img src="img/global/cortador.png" alt="Cortador" class="img-fluid  border rounded">
                 <p class="text-center"> <b>CORTADOR TS-66 MAX</b></p><br>
                 <p class="text-justify"> sistema progresivo de separación para cada tipo de material
                     Base ancha: mayor superficie de apoyo para una mayor estabilidad y calidad
@@ -79,7 +79,7 @@
                 ?>
             </div>
             <div class="col-sm">
-                <img src="img/global/troncadora.png" alt="radial" class="img-fluid  border rounded">
+                <img src="img/global/Troncadora.png" alt="Troncadora" class="img-fluid  border rounded">
                 <p class="text-center"><b>TRONCADORA C/HÚMEDO DURHER PIRINEOS 1000 1,5CV MONOF.</b></p>
                 <p class="text-justify">Cortadora portátil, compacta y ligera.
                     Recomendada para trabajos en interiores.
@@ -95,7 +95,7 @@
                 ?>
             </div>
             <div class="col-sm">
-                <img src="img/global/rozadora.png" alt="radial" class="img-fluid  border rounded">
+                <img src="img/global/rozadora.png" alt="Rozadora" class="img-fluid  border rounded">
                 <p class="text-center"><b>ROZADORA MACROZA MOD. SC200.</b></p><br>
                 <p class="text-justify"> Trabaja en los materiales más duros de la construcción (excepto piedra y hormigón armado)
                     Abre rozas de 5 x 5 cm en una sola pieza Incorpora circuito de protección contra sobrecargas y leds de aviso
@@ -114,21 +114,21 @@
         <div class="row ">
             <a name="discos"></a>
             <div class="col-sm ">
-                <img src="img/global/disco.png" alt="hormigonera" class="img-fluid  border rounded">
+                <img src="img/global/disco.png" alt="Disco de radiar" class="img-fluid  border rounded">
                 <p class="text-center"><b> DISCO DIAMANTE C/H RIM CERAMICA DURA/ PORCELANATO BL ⌀ 300MM</b></p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
             </div>
             <div class="col-sm ">
-                <img src="img/global/disco1.png" alt="hormigonera" class="img-fluid  border rounded">
+                <img src="img/global/disco1.png" alt="Disco de radiar" class="img-fluid  border rounded">
                 <p class="text-center"><b> DISCO DIAMANTE C/H GRANITO B 25V AL 1 ⌀ 300MM</b></p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
             </div>
             <div class="col-sm ">
-                <img src="img/global/disco2.png" alt="hormigonera" class="img-fluid  border rounded">
+                <img src="img/global/disco2.png" alt="Disco de radiar" class="img-fluid  border rounded">
                 <p class="text-center"><b> DISCO DIAMANTE C/H GRAL. OBRAS STANDARD BL ⌀ 300MM</b></p>
                 <?php
                 include('whatsappherramientas.html');
@@ -229,7 +229,7 @@
             <div class="col-sm">
             </div>
             <div class="col-sm">
-                <img src="img/global/Reglavibrante.png" alt="hormigonera" class="img-fluid  border rounded">
+                <img src="img/global/Reglavibrante.png" alt="Regla vibrante" class="img-fluid  border rounded">
                 <p class="text-center"><b>REGLA VIBRANTE QX 200 HONDA</b></p><br>
                 <p class="text-justify"> Regla vibrante para hormigón.
                     Regla ligera de peso que la hace fácil de manejar
