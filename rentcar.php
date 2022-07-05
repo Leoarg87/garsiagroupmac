@@ -493,23 +493,15 @@
 
     </div>
 
-    <div class="mt-5" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/coches/banner.jpg); padding-top: 16%; padding-bottom: 3%; background-size: cover;">
-        <h1 class="text-center" style="font-family: 'Impact'; color: white">
-
-            ¿Necesitas alquilar un coche en Marbella?</h1>
-
+    <div class="mt-5" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/coches/banner.jpg); padding-top: 10%; background-size: cover;height: 491px;">
+        <h1 class="text-center" style="font-family: 'Impact'; color: white">¿Necesitas alquilar un coche en Marbella?</h1>
         <h3 class="text-center  p-3" style="font-family: 'Impact'; color : white;">Visítanos en Alquiler coches en Marbella Garsia Group, tenemos lo que necesitas</h3>
-
-
     </div>
-
     <div class="container mt-5 mb-5"> <?php
                                         include('whatsapptrastero.html');
-                                        ?></div>
-
-
-
+                                        ?>
     </div>
+
 
 
     <div class="footer">

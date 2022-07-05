@@ -27,12 +27,12 @@
     ?>
     <div class="mt-5" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/venta/banner.jpeg); padding-top: 7%;background-size: cover;height: 491px;">
     <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">Garsia Group</h1>
-        <h1 class="text-center mt-3" style="color:white"> Mucho más que una compraventa</h1>
+        <h1 class="text-center mt-3" style="color:white"> Tu fidelidad, nuestro compromiso</h1>
     
     </div>
     <div class="mt-5" style="background-color:#891A1A">
         <h1 class="text-center p-3" style=" font-family: 'Impact'; color : white;">
-            Nuestra flota de coches
+            Nuestros vehículos
         </h1>
     </div>
     <div class="container">
@@ -699,6 +699,14 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="mt-5" style="background-color:#891A1A">
+        <h1 class="text-center p-3" style=" font-family: 'Impact'; color : white;">
+
+            Mucho más que un compra-venta
+
+        </h1>
+
     </div>
     </div>
     <!-- mustangblanco -->
