@@ -30,16 +30,15 @@
             <h1 style="font-family: 'Impact';color: #891A1A " class="text-right mt-5 text-center">Taller de Reparación de Vehículos en Marbella</h1>
             <div class="d-flex flex-row mt-5">
 
-                <img src="img/taller/reparacion.jpg" alt="reparacion" class="img-fluid " style="width:70%; height:70%;margin-top: 3%;">
-                <p class=" container-fluid text-left">
+                <img src="img/taller/reparacion.jpg" alt="reparacion" class="img-fluid " style="width:70%; height:70%;">
+                <p class=" container-fluid text-justify">
 
-                    En nuestro taller nos dedicamos al mantenimiento y la reparación mecánica general de todo tipo de vehículos. <br><br>
+                    En nuestro taller nos dedicamos al mantenimiento y la reparación mecánica general de todo tipo de vehículos. 
+                    Contamos con más de 30 años de experiencia en el sector del automóvil y <b> estamos especializados en todo tipo de marcas, incluyendo grandes como Audi, Mercedes, BWM, Volkswagen, Porche, Rolls Royce y los todoterrenos.</b>
 
-                    Contamos con más de 30 años de experiencia en el sector del automóvil y <b> estamos especializados en todo tipo de marcas, incluyendo grandes como Audi, Mercedes, BWM, Volkswagen, Porche, Rolls Royce y los todoterrenos.</b><br><br>
+                    Trabajamos con todas las compañías aseguradoras y disponemos de varios vehículos de sustitución para ofrecer a nuestros clientes.
 
-                    Trabajamos con todas las compañías aseguradoras y disponemos de varios vehículos de sustitución para ofrecer a nuestros clientes.<br><br>
-
-                    Estamos ubicados en la prestigiosa ciudad de Marbella, y atendemos también a <b>clientes de poblaciones vecinas, como Puerto Banús y San Pedro de Alcántara, ambos en la provincia de Málaga.</b><br><br>
+                    Estamos ubicados en la prestigiosa ciudad de Marbella, y atendemos también a <b>clientes de poblaciones vecinas, como Puerto Banús y San Pedro de Alcántara, ambos en la provincia de Málaga.</b>
 
                 </p>
             </div>
