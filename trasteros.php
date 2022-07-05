@@ -19,9 +19,10 @@
     <?php
     include("menu.php");
     ?>
-    <div class="mt-5"style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/trasteros/trasteros2.jpg); padding-top: 5%; padding-bottom: 5%; background-size: cover; background-position-y: center;">
-        <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">MIRADELL <br>Alquiler de trasteros</h1>
-       
+    <div class="mt-5"style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/trasteros/trasteros2.jpg); padding-top: 7%;  background-size: cover; background-position-y: center;height: 491px;">
+        <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">MIRADELL</h1>
+        <h1 class="text-center mt-3" style="color:white"> Alquiler de trasteros en Marbella</h1>
+
 
     </div>
     <div class="container mt-5" style="color:#343a40">

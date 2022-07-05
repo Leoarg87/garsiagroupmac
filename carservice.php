@@ -21,8 +21,9 @@
     ?>
     <div class="mt-5 ">
         
-    <div style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/taller/banner.jpg); padding-top: 5%; padding-bottom: 5%; background-size: cover; background-position-y: center;">
-            <h1 class="text-center  " style="font-family: 'Impact';color: white">Taller Garage</h1>
+    <div style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/carrusel/8.png); padding-top: 7%; background-size: cover; background-position-y: center; height: 491px;">
+    <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">Taller Garage</h1>
+    <h1 class="text-center mt-3" style="color:white"> Taller de reparación en Marbella</h1>
 
         </div>
         <div class="container">

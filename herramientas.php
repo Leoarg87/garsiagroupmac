@@ -22,28 +22,18 @@
     <div class="container mt-5">
         <div class="row ">
             <div class="col-sm">
-                <a id="bombas"></a>
+
+            </div>
+            <div class="col-sm">
+                <a name="bombas"></a>
                 <img src="img/global/bomba.png" alt="bomba de agua" class="img-fluid  border rounded">
-                <p class="text-center">Bomba sumergible eléctrica 0.5cv</p>
+                <p class="text-center"><b>BOMBA AGUA VENETO AX 550M 0,75CV</b></p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
             </div>
             <div class="col-sm">
-                <a name="bombas"></a>
-                <img src="img/global/bomba.png" alt="bomba de agua" class="img-fluid  border rounded">
-                <p class="text-center">Bomba sumergible eléctrica 1cv</p>
-                <?php
-                include('whatsappherramientas.html');
-                ?>
-            </div>
-            <div class="col-sm">
-                <a name="bombas"></a>
-                <img src="img/global/bomba.png" alt="bomba de agua" class="img-fluid  border rounded">
-                <p class="text-center">Manguera Bomba de agua 6(metros)</p>
-                <?php
-                include('whatsappherramientas.html');
-                ?>
+
             </div>
         </div>
     </div>
@@ -79,15 +69,70 @@
         <div class="row ">
             <a name="amoladoras"></a>
             <div class="col-sm">
-            </div>
-            <div class="col-sm">
-                <img src="img/global/radial.png" alt="radial" class="img-fluid  border rounded">
-                <p class="text-center">Amoladora 2100W.</p>
+                <img src="img/global/cortador.png" alt="radial" class="img-fluid  border rounded">
+                <p class="text-center"> <b>CORTADOR TS-66 MAX</b></p><br>
+                <p class="text-justify"> sistema progresivo de separación para cada tipo de material
+                    Base ancha: mayor superficie de apoyo para una mayor estabilidad y calidad
+                    Mangos ergonómicos y base reforzada y de grandes dimensiones</p><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
             </div>
             <div class="col-sm">
+                <img src="img/global/troncadora.png" alt="radial" class="img-fluid  border rounded">
+                <p class="text-center"><b>TRONCADORA C/HÚMEDO DURHER PIRINEOS 1000 1,5CV MONOF.</b></p>
+                <p class="text-justify">Cortadora portátil, compacta y ligera.
+                    Recomendada para trabajos en interiores.
+                    Garantizada para el corte de materiales de gran dureza como el gres porcelánico.
+                    Disco de Ø200 mm.
+                    Disco refrigerado por agua.
+                    Cortes de 45° a 90°.
+                    Opcional con caballete o patas.
+                    Sistema de guía patentado.</p>
+
+                <?php
+                include('whatsappherramientas.html');
+                ?>
+            </div>
+            <div class="col-sm">
+                <img src="img/global/rozadora.png" alt="radial" class="img-fluid  border rounded">
+                <p class="text-center"><b>ROZADORA MACROZA MOD. SC200.</b></p><br>
+                <p class="text-justify"> Trabaja en los materiales más duros de la construcción (excepto piedra y hormigón armado)
+                    Abre rozas de 5 x 5 cm en una sola pieza Incorpora circuito de protección contra sobrecargas y leds de aviso
+                    Se sujeta sola a la pared.</p><br>
+
+                <?php
+                include('whatsappherramientas.html');
+                ?>
+            </div>
+
+
+
+        </div>
+    </div>
+    <div class="container mt-5">
+        <div class="row ">
+            <a name="discos"></a>
+            <div class="col-sm ">
+                <img src="img/global/disco.png" alt="hormigonera" class="img-fluid  border rounded">
+                <p class="text-center"><b> DISCO DIAMANTE C/H RIM CERAMICA DURA/ PORCELANATO BL ⌀ 300MM</b></p>
+                <?php
+                include('whatsappherramientas.html');
+                ?>
+            </div>
+            <div class="col-sm ">
+                <img src="img/global/disco1.png" alt="hormigonera" class="img-fluid  border rounded">
+                <p class="text-center"><b> DISCO DIAMANTE C/H GRANITO B 25V AL 1 ⌀ 300MM</b></p>
+                <?php
+                include('whatsappherramientas.html');
+                ?>
+            </div>
+            <div class="col-sm ">
+                <img src="img/global/disco2.png" alt="hormigonera" class="img-fluid  border rounded">
+                <p class="text-center"><b> DISCO DIAMANTE C/H GRAL. OBRAS STANDARD BL ⌀ 300MM</b></p>
+                <?php
+                include('whatsappherramientas.html');
+                ?>
             </div>
         </div>
     </div>
@@ -95,8 +140,13 @@
         <div class="row d-flex justify-content-center">
             <a name="hormigoneras"></a>
             <div class="col-sm">
-                <img src="img/global/cementera.png" alt="hormigonera" class="img-fluid  border rounded">
-                <p class="text-center">Hormigonera electrica 140L</p>
+                <img src="img/global/hormigonera145.png" alt="hormigonera" class="img-fluid  border rounded">
+                <p class="text-center"><b>Hormigonera SIRL BR 145 MONOF. 230V</b> </p>
+                <p class="text-justify"> Hormigonera con boca reforzada.
+                    Bombo con 2 palas mezcladoras dobles soldados.
+                    Engrasador, corona y piñón en hierro fundido .
+                    Estructura plegable, pedal de seguridad opcional.
+                    Sistema para descarga.</p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -104,8 +154,15 @@
             <div class="col-sm">
             </div>
             <div class="col-sm">
-                <img src="img/global/cementera.png" alt="hormigonera" class="img-fluid  border rounded">
-                <p class="text-center">Hormigonera electrica 160L</p>
+                <img src="img/global/hormigonera.png" alt="hormigonera" class="img-fluid  border rounded">
+                <p class="text-center"><b>HORMIGONERA SIRL BR 160 MONOF 230V</b></p>
+                <p class="text-justify">
+                    Hormigonera con boca reforzada.
+                    Bombo con 3 palas mezcladoras dobles soldados.
+                    Engrasador, corona y piñón en hierro fundido .
+                    Polea en hierro correa en v.
+                    Estructura reforzada, sistema para descarga.
+                </p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -120,7 +177,10 @@
             </div>
             <div class="col-sm">
                 <img src="img/global/soldadora.jpeg" alt="soldador" class="img-fluid  border rounded">
-                <p class="text-center">Motosoldadora 160A.</p>
+                <p class="text-center"><b>INVERTER ST CITYWORK 1250 GE K</b></p>
+                <p class="text-justify"> Equipo electrónico para soldadura por arco eléctrico de toda clase de electrodo recubierto.
+                    Apto para electrodos de rutilo, básico, inoxidable, y fundición de 1.6 3,2 mm.
+                    Microprocesador STM 32 F103 de 32 bits con respuesta de alta velocidad y sistema operativo en tiempo real, gracias al control del software exclusivo de Stayer.</p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -129,12 +189,12 @@
             </div>
         </div>
     </div>
-    
+
     <div class="container mt-5">
         <div class="row d-flex justify-content-center">
             <a name="generadores"></a>
             <div class="col-sm">
-                <img src="" alt="Generador" class="img-fluid  border rounded">
+                <img src="img/global/nodisponible1.jpg" alt="Generador" class="img-fluid  border rounded">
                 <p class="text-center">Generador 5 kvas</p>
                 <?php
                 include('whatsappherramientas.html');
@@ -143,7 +203,7 @@
             <div class="col-sm">
             </div>
             <div class="col-sm">
-                <img src="" alt="Generador" class="img-fluid  border rounded">
+                <img src="img/global/nodisponible1.jpg" alt="Generador" class="img-fluid  border rounded">
                 <p class="text-center">Generador 8 kvas.</p>
                 <?php
                 include('whatsappherramientas.html');
@@ -152,13 +212,16 @@
 
         </div>
     </div>
-  
+
     <div class="container mt-5">
         <div class="row d-flex justify-content-center">
             <a name="vibracion"></a>
             <div class="col-sm">
                 <img src="img/global/motor.png" alt="vibrador hormigon" class="img-fluid  border rounded">
-                <p class="text-center">Vibrador hormigon electrico</p>
+                <p class="text-center"><b>VIBRADOR COMPLETO ENARCO FOX-TAX 230V</b></p>
+                <p class="text-justify"> Motor sobredimensionado, con refuerzo de cable de conexión.
+                    Interruptor integrado en el asa y protegido.
+                    Carcasa de alta resistencia y con doble aislamiento contra salpicaduras y accesos al motor.</p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -166,8 +229,12 @@
             <div class="col-sm">
             </div>
             <div class="col-sm">
-                <img src="img/global/motor.png" alt="hormigonera" class="img-fluid  border rounded">
-                <p class="text-center">Regla vibrante gasolina</p>
+                <img src="img/global/Reglavibrante.png" alt="hormigonera" class="img-fluid  border rounded">
+                <p class="text-center"><b>REGLA VIBRANTE QX 200 HONDA</b></p><br>
+                <p class="text-justify"> Regla vibrante para hormigón.
+                    Regla ligera de peso que la hace fácil de manejar
+                    Perfecto acabado para pavimentación de cemento visto.
+                </p><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -175,7 +242,7 @@
 
         </div>
     </div>
-    
+
 
     <div class="container mt-5">
         <div class="row ">
@@ -183,7 +250,7 @@
             <div class="col-sm">
             </div>
             <div class="col-sm">
-                <img src="..." alt="valla amarilla" class="img-fluid  border rounded">
+                <img src="img/global/nodisponible1.jpg" alt="valla amarilla" class="img-fluid  border rounded">
                 <p class="text-center">Valla amarilla 2,5 mts</p>
                 <?php
                 include('whatsappherramientas.html');
@@ -197,7 +264,7 @@
         <div class="row ">
             <a name="otros"></a>
             <div class="col-sm">
-                <img src="..." alt="Deshumificador" class="img-fluid  border rounded">
+                <img src="img/global/nodisponible1.jpg" alt="Deshumificador" class="img-fluid  border rounded">
                 <p class="text-center">Deshumificador 25</p>
                 <?php
                 include('whatsappherramientas.html');
@@ -206,7 +273,7 @@
             <div class="col-sm">
             </div>
             <div class="col-sm">
-                <img src="..." alt="Deshumificador" class="img-fluid  border rounded">
+                <img src="img/global/nodisponible1.jpg" alt="Deshumificador" class="img-fluid  border rounded">
                 <p class="text-center">Deshumificador 60</p>
                 <?php
                 include('whatsappherramientas.html');

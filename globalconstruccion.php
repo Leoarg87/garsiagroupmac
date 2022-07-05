@@ -14,12 +14,14 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
     <title>Global Construccion</title>
     <style>
-        .fotos:hover{
+        .fotos:hover {
             transform: scale(0.9);
         }
-        .hover{
-            color:black;
+
+        .hover {
+            color: black;
         }
+
         .hover:hover {
             background-color: lightgrey;
         }
@@ -30,33 +32,33 @@
     <?php
     include("menu.php");
     ?>
-    <div class="container">
-        <h1 style="font-family: 'Impact';color: #343a40" class="text-right mt-5 mb-5 text-center">Garsia Global Construcción</h1>
+    <div class="mt-5"style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/carrusel/9.png); padding-top: 7%;  background-size: cover; background-position-y: center;height: 491px;">
+        <h1 class="text-center mt-5" style="font-size: xxx-large; font-family: 'Impact';color: white">Global Construcción</h1>
+        <h1 class="text-center mt-3" style="color:white"> Alquiler de material de construcción en Marbella</h1>
+</div>
+    <div class="container mt-5">
+    
         <div class="d-flex flex-row justify-content-center">
 
-            <img src="img/global/banner.png" alt="herramientas construccion" class="img-fluid" style="width:50%; height:85%;margin-top:8%;">
-            <p class=" container-fluid text-left font-family: 'Impact'; ">
+            <img src="img/global/banner.png" alt="herramientas construccion" class="img-fluid" style="width:50%; height:85%;">
+            <p class=" container-fluid text-justify font-family: 'Impact'; ">
 
-                <b>Garsia Global Construcción</b> , somos una empresa dedicada al alquiler de herramientas y maquinarias. <br><br>
+                <b>Garsia Global Construcción</b> , somos una empresa dedicada al alquiler de herramientas y maquinarias para la construcción.
 
-                Nuestros servicios de alquiler de maquinaria abarcan los sectores de la construcción,<b> fontanería, jardinería, limpieza, electricidad, pintura, elevación, carga </b> todas aquellas actividades profesionales que requieran el uso de maquinaria o herramientas especializadas.<br><br>
+                Contamos con un <b>amplio catálogo de maquinaria y herramientas profesionales</b> para que puedas llevar a cabo tus proyectos de construcción, reforma o rehabilitación.
 
-                Contamos con un amplio catálogo de maquinaria y herramientas ya que, trabajamos con diversas marcas.<br><br>
+                Tenemos una gran experiencia en el sector y ponemos a su disposición nuestro servicio de <b>asesoramiento personalizado, adaptándolos a sus necesidades y ofreciendo precios competitivos.</b>
 
-                Tenemos una gran experiencia en el sector y ponemos a su disposición<b> nuestro servicio de asesoramiento personalizado </b>, adaptándolos a sus necesidades y ofreciendo precios competitivos.<br><br>
+                Si estás buscando herramientas y maquinarias, no lo dudes,<b> este es tu sitio de confianza!</b>
 
-                <b>Si estas buscando herramientas y maquinarias</b>, no lo dudes, este es tu sitio de confianza!<br><br>
+
             </p>
         </div>
     </div>
-    <div class="bg-dark mt-5">
+    <div class="bg-dark mt-5" style="padding-top: 2%;padding-bottom: 1%;">
         <h1 class="text-center p-3" style=" font-family: 'Impact';; color : white;">
-
-            Nuestro objetivo es,
-
+            NUEVA PLANTA DE HERRAMIENTAS PARA ALQUILAR
         </h1>
-        <h3 class="text-center  p-3" style="font-family: 'Impact';; color : white;">satisfacer a todos nuestros clientes ofreciéndoles
-            el mejor servicio y la mejor calidad</h3>
     </div>
     <!--Categorias -->
     <div class="row d-flex justify-content-center mt-5">
@@ -70,13 +72,15 @@
 
             </div>
         </div>
-        
+
         <div class="col-2">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
                 <a href="herramientas.php#taladros"><img class="fotos img-fluid" src="img/global/taladro.png" alt="taladro" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#taladros"><h5 class=" hover text-center font-weight-bold">TALADROS Y MARTILLOS</h5></a>
+                    <a href="herramientas.php#taladros">
+                        <h5 class=" hover text-center font-weight-bold">TALADROS Y MARTILLOS</h5>
+                    </a>
                 </div>
 
             </div>
@@ -86,21 +90,25 @@
                 <a href="herramientas.php#amoladoras"><img class="fotos img-fluid" src="img/global/radial.png" alt="amoladoras" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#amoladoras"><h5 class=" hover text-center font-weight-bold">AMOLADORAS</h5></a>
+                    <a href="herramientas.php#amoladoras">
+                        <h5 class=" hover text-center font-weight-bold">HERRAMIENTAS DE CORTE</h5>
+                    </a>
                 </div>
 
             </div>
         </div>
-      
+
     </div>
     <div class="row d-flex justify-content-center mt-5">
-        
+
         <div class="col-2">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
                 <a href="herramientas.php#hormigoneras"><img class="fotos img-fluid" src="img/global/cementera.png" alt="Hormigonera" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#hormigoneras"><h5 class=" hover text-center font-weight-bold">HORMIGONERAS</h5></a>
+                    <a href="herramientas.php#hormigoneras">
+                        <h5 class=" hover text-center font-weight-bold">HORMIGONERAS</h5>
+                    </a>
                 </div>
 
             </div>
@@ -110,55 +118,68 @@
                 <a href="herramientas.php#soldadorass"><img class="fotos img-fluid" src="img/global/soldador.png" alt="soldadora" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#soldadoras"><h5 class=" hover text-center font-weight-bold">SOLDADORAS</h5></a>
+                    <a href="herramientas.php#soldadoras">
+                        <h5 class=" hover text-center font-weight-bold">SOLDADORAS</h5>
+                    </a>
                 </div>
 
             </div>
-        </div>  
+        </div>
         <div class="col-2">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
-                <a href="herramientas.php#generadores"><img class="fotos img-fluid" src="img/global/.png" alt="generadores" style="width:100%"></a>
+                <a href="herramientas.php#generadores"><img class="fotos img-fluid" src="img/global/nodisponible1.jpg" alt="generadores" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#generadores"><h5 class=" hover text-center font-weight-bold">GENERADORES</h5></a>
+                    <a href="herramientas.php#generadores">
+                        <h5 class=" hover text-center font-weight-bold">GENERADORES</h5>
+                    </a>
                 </div>
 
             </div>
-        </div>  
         </div>
-        <div class="row d-flex justify-content-center mt-5">
-        
+    </div>
+    <div class="row d-flex justify-content-center mt-5">
+
         <div class="col-2">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
                 <a href="herramientas.php#vibracion"><img class="fotos img-fluid" src="img/global/motor.png" alt="vibracion" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#vibracion"><h5 class=" hover text-center font-weight-bold">VIBRACION</h5></a>
+                    <a href="herramientas.php#vibracion">
+                        <h5 class=" hover text-center font-weight-bold">VIBRACION</h5>
+                    </a>
                 </div>
 
             </div>
         </div>
         <div class="col-2">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
-                <a href="herramientas.php#señalizacion"><img class="fotos img-fluid" src="img/global/señalizacion.png" alt="señalizacion" style="width:100%"></a>
+                <a href="herramientas.php#señalizacion"><img class="fotos img-fluid" src="img/global/nodisponible1.jpg" alt="señalizacion" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#señalizacion"><h5 class=" hover text-center font-weight-bold">SEÑALIZACION</h5></a>
+                    <a href="herramientas.php#señalizacion">
+                        <h5 class=" hover text-center font-weight-bold">SEÑALIZACION</h5>
+                    </a>
                 </div>
 
             </div>
-        </div>  
+        </div>
         <div class="col-2">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
-                <a href="herramientas.php#otros"><img class="fotos img-fluid" src="img/global/otros.png" alt="otros" style="width:100%"></a>
+                <a href="herramientas.php#otros"><img class="fotos img-fluid" src="img/global/nodisponible1.jpg" alt="otros" style="width:100%"></a>
 
                 <div class="container">
-                    <a href="herramientas.php#otros"><h5 class=" hover text-center font-weight-bold">OTROS</h5></a>
+                    <a href="herramientas.php#otros">
+                        <h5 class=" hover text-center font-weight-bold">OTROS</h5>
+                    </a>
                 </div>
 
             </div>
-        </div>  
         </div>
+    </div>
+    <div class="d-flex justify-content-center mt-5">
+        <img src="img/global/final.png" alt="marcas" style="width: 50%;">
+    </div>
     <!--Categorias -->
 
     <div class="footer">

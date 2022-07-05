@@ -43,9 +43,9 @@
     include("menu.php");
     ?>
     <div id="carouselExampleInterval" class="carousel slide mt-5" data-ride="carousel">
-        <div class="carousel-inner" style="height:500px">
+        <div class="carousel-inner" style="height:491px">
             <div class="carousel-item active" data-interval="2000">
-                <img src="img/coches/carrusel11.png" class="d-flex w-100" alt="...">
+                <img src="img/coches/carrusel11.png" class="d-flex w-100 " alt="...">
             </div>
             <div class="carousel-item" data-interval="2000">
                 <img src="img/coches/carrusel2.png" class="d-flex w-100" alt="...">
@@ -175,7 +175,7 @@
         </div>
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col-5">
-                <img src="img/coches/mercedesClaseB.png" alt="Mercedes clase b" class="img-fluid">
+                <img src="img/coches/mercedesClaseB1.png" alt="Mercedes clase b" class="img-fluid">
             </div>
             <div class="col-3 align-self-center">
                 <h2 style="color:#ae1102">Mercedes Benz Clase B</h2>
@@ -311,7 +311,7 @@
         </div>
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col-5">
-                <img src="img/coches/vwtouran.png" alt="Volkswagen Touran" class="img-fluid">
+                <img src="img/coches/vwtouran1.png" alt="Volkswagen Touran" class="img-fluid">
             </div>
             <div class="col-4 align-self-center">
                 <h2 style="color:#ae1102">Volkswagen Touran</h2>
@@ -401,7 +401,7 @@
         </div>
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col-5">
-                <img src="img/coches/seatibiza.png" alt="Seat Ibiza" class="img-fluid">
+                <img src="img/coches/seatibiza1.png" alt="Seat Ibiza" class="img-fluid">
             </div>
             <div class="col-3 align-self-center">
                 <h2 style="color:#ae1102">Seat Ibiza</h2>
@@ -440,7 +440,7 @@
             </div>
 
             <div class="col-5">
-                <img src="img/coches/peugeot508.png" alt="Peugeot 508" class="img-fluid">
+                <img src="img/coches/peugeot5081.png" alt="Peugeot 508" class="img-fluid">
             </div>
 
         </div>
