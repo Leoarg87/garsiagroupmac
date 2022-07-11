@@ -52,7 +52,7 @@
 
     </div>
     <div class="container">
-        <div class="row mt-4 d-flex justify-content-center"style=" height: 44vh">
+        <div class="row mt-4 d-flex justify-content-center"style=" height: 309px">
             <div class="col align-self-center">
                 <span style=" font-family: 'impact'; font-size:24px">Ubicacion<br></span>
                 
@@ -60,7 +60,7 @@
             </div>
 
             <div class="col">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.899585671028!2d-4.873155403364178!3d36.50856337217704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd73276c570c1c57%3A0xd1b8e1522c5f7efd!2sTrasteros%20Marbella!5e0!3m2!1ses!2ses!4v1656581372790!5m2!1ses!2ses" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.899585671028!2d-4.873155403364178!3d36.50856337217704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd73276c570c1c57%3A0xd1b8e1522c5f7efd!2sTrasteros%20Marbella!5e0!3m2!1ses!2ses!4v1656581372790!5m2!1ses!2ses" width="100%"  height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     
             </div>
         </div>
