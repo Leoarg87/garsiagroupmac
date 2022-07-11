@@ -49,7 +49,7 @@
                 ?>
             </div>
             <div class="col-sm">
-                <img src="img/global/taladrogrande.png" alt="taladro con martillo grande" class="img-fluid  border rounded" style="height:76%">
+                <img src="img/global/taladrogrande.png" alt="taladro con martillo grande" class="img-fluid  border rounded" >
                 <p class="text-center">Martillo Electrico 11kgs picador/perforador </p>
                 <?php
                 include('whatsappherramientas.html');
