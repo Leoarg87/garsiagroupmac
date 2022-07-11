@@ -114,6 +114,12 @@
             </ul>
         </div>
     </div>
+    <div class="container mt-5 mb-5"> 
+        <?php
+        include('whatsapptrastero.html');
+                                        ?>
+    </div>
+
     <div class="mt-5" style="background-color:#891A1A">
         <h1 class="text-center p-3" style=" font-family: 'Impact'; color : white;">
 

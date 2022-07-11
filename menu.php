@@ -31,7 +31,7 @@
                     <div class="row">
                         <img src="icon/email.png" class="emailimg-fluid" style="height:100%" alt="email">
 
-                        <div class="col ml-3">
+                        <div class="col-4 ml-3">
                             <p style="font-weight:bold;">EMAIL</p>
                             <a href="mailto:info@garsiagroup.com" target="_blank">info@garsiagroup.es</a>
                         </div>

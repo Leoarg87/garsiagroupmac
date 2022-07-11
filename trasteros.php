@@ -51,6 +51,11 @@
         </h1>
 
     </div>
+    <div class="container mt-5 mb-5"> 
+        <?php
+        include('whatsapptrastero.html');
+                                        ?>
+    </div>
     <div class="container">
         <div class="row mt-4 d-flex justify-content-center"style=" height: 309px">
             <div class="col align-self-center">
@@ -143,7 +148,11 @@
 
 
 
-
+    <div class="container mt-5 mb-5"> 
+        <?php
+        include('whatsapptrastero.html');
+                                        ?>
+    </div>
     <div class="footer">
         <?php
         include('footer.php');

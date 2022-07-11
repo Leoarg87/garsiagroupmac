@@ -67,7 +67,7 @@
                 <a href="herramientas.php#bombas"><img class="fotos img-fluid" src="img/global/bomba.png" alt="bomba de agua" style="width:100%"></a>
 
                 <div class="container">
-                    <h5 class="hover text-center font-weight-bold">BOMBAS DE AGUA</h5>
+                    <h6 class="hover text-center font-weight-bold">BOMBAS DE AGUA</h6>
                 </div>
 
             </div>
@@ -79,7 +79,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#taladros">
-                        <h5 class=" hover text-center font-weight-bold">TALADROS Y MARTILLOS</h5>
+                        <h6 class=" hover text-center font-weight-bold">TALADROS Y MARTILLOS</h6>
                     </a>
                 </div>
 
@@ -91,7 +91,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#amoladoras">
-                        <h5 class=" hover text-center font-weight-bold">HERRAMIENTAS DE CORTE</h5>
+                        <h6 class=" hover text-center font-weight-bold">HERRAMIENTAS DE CORTE</h6>
                     </a>
                 </div>
 
@@ -107,7 +107,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#hormigoneras">
-                        <h5 class=" hover text-center font-weight-bold">HORMIGONERAS</h5>
+                        <h6 class=" hover text-center font-weight-bold">HORMIGONERAS</h6>
                     </a>
                 </div>
 
@@ -119,7 +119,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#soldadoras">
-                        <h5 class=" hover text-center font-weight-bold">SOLDADORAS</h5>
+                        <h6 class=" hover text-center font-weight-bold">SOLDADORAS</h6>
                     </a>
                 </div>
 
@@ -131,7 +131,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#generadores">
-                        <h5 class=" hover text-center font-weight-bold">GENERADORES</h5>
+                        <h6 class=" hover text-center font-weight-bold">GENERADORES</h6>
                     </a>
                 </div>
 
@@ -146,7 +146,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#vibracion">
-                        <h5 class=" hover text-center font-weight-bold">VIBRACION</h5>
+                        <h6 class=" hover text-center font-weight-bold">VIBRACION</h6>
                     </a>
                 </div>
 
@@ -158,7 +158,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#señalizacion">
-                        <h5 class=" hover text-center font-weight-bold">SEÑALIZACION</h5>
+                        <h6 class=" hover text-center font-weight-bold">SEÑALIZACION</h6>
                     </a>
                 </div>
 
@@ -170,7 +170,7 @@
 
                 <div class="container">
                     <a href="herramientas.php#otros">
-                        <h5 class=" hover text-center font-weight-bold">OTROS</h5>
+                        <h6 class=" hover text-center font-weight-bold">OTROS</h6>
                     </a>
                 </div>
 
