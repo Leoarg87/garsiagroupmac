@@ -424,7 +424,7 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
                     Elimina olores y esteriliza.
                     Gran rendimiento.
 
-                </p><br><br>
+                </p><br><br><br>
                 <?php
 
                 include('whatsappherramientas.html');
@@ -432,10 +432,10 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
             </div>
             <div class="col-sm">
                 <img src="img/global/hidrolimpiadora.png" alt="limpiadoras" class="img-fluid  border rounded">
-                <p class="text-center"><b>HIDROLIMPIADORA KRACHER HD 9/20 4M </b></p>
+                <p class="text-center"><b>HIDROLIMPIADORA KRACHER HD 9/20 4M </b></p><br>
                 <p class="text-justify">
                     La potente limpiadora de alta presión móvil con motor trifásico de 4 polos y marcha lenta, mando por interruptor de presión, lanza pulverizadora regulable y manguera de alta presión con alojamiento giratorio. Por medio del Servo Control se pueden regular con absoluta comodidad el caudal de agua y la presión de trabajo directamente en la pistola.
-                </p>
+                </p><br>
                 <?php
 
                 include('whatsappherramientas.html');
@@ -443,13 +443,13 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
             </div>
             <div class="col-sm">
                 <img src="img/global/deshumidificador.PNG" alt="Deshumificador" class="img-fluid  border rounded">
-                <p class="text-center"><b>DESHUMIFICADOR KRÜGER HIDRA50</b></p>
+                <p class="text-center"><b>DESHUMIFICADOR KRÜGER HIDRA50</b></p><br>
                 <p class="text-justify">
                 Deshumidificadores portátiles para la reducción de la humedad del aire que proporcionan bienestar personal y protegen el género
 almacenado.Idóneos para locales comerciales o particulares, habitaciones, pequeños almacenes, sótanos, granjas, etc.
 Ergonómicos, compactos, de alta calidad y fácil manejo. 
 
-                </p><br>
+                </p><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
