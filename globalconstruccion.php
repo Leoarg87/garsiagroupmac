@@ -81,7 +81,7 @@
 
         <div class="col-12 col-md-4 col-lg-4">
             <div class=" hover polaroid" style=" box-shadow: 10px 10px 10px 5px #343a40;">
-                <a href="herramientas.php#taladros"><img class="fotos img-fluid" src="img/global/taladro.png" alt="taladro" style="width:100%"></a>
+                <a href="herramientas.php#taladros"><img class="fotos img-fluid" src="img/global/martilloperforador.png" alt="taladro" style="width:100%"></a>
 
                 <div class="container p-0">
                     <a href="herramientas.php#taladros">
