@@ -69,8 +69,8 @@
                 <img src="img/global/punteroestandar.png" alt="martillo perforador" class="img-fluid border rounded">
                 <p class="text-center"> <b>BOSCH PUNTERO ESTÁNDAR SDS PLUS 250MM</b> </p>
                 <p class="text-justify">
-Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cincelado estándar en hormigón y ladrillos para trabajos de renovación y restauración.
-</p><br><br>
+                    Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cincelado estándar en hormigón y ladrillos para trabajos de renovación y restauración.
+                </p><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -87,7 +87,7 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
                 <img src="img/global/cincelplano.png" alt="martillo demoledor" class="img-fluid border rounded">
                 <p class="text-center"> <b>BOSCH CINCEL PLANO SDS-PLUS 20x250 mm</b> </p>
                 <p class="text-justify">
-                El cincel plano SDS plus permite un cincelado estándar en diversos trabajos de renovación y restauración.
+                    El cincel plano SDS plus permite un cincelado estándar en diversos trabajos de renovación y restauración.
                 </p><br> <br> <br>
                 <?php
                 include('whatsappherramientas.html');
@@ -102,7 +102,7 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
                 include('whatsappherramientas.html');
                 ?>
             </div>
-            
+
         </div>
     </div>
     <div class="container mt-5">
@@ -402,13 +402,13 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
 
     <div class="container mt-5">
         <div class="row d-flex justify-content-center">
-            <a name="otros"></a>
+            <a name="limpiadoras"></a>
             <div class="col-sm">
                 <img src="img/global/kacher1.jpeg" alt="limpiadoras" class="img-fluid  border rounded">
                 <p class="text-center"><b>HIDROLIMPIADORA KRACHER K7 PREMIUM FULL CONTROL PLUS </b></p>
                 <p class="text-justify">Es una de las versiones de gama superior con equipamiento de base, lanza full control 3 en 1. Ligeramente diferente estéticamente de las versiones anteriores, esta hidrolimpiadora está diseñada para ser aún más fácil de manejar y eficiente.
-                   </p>
-                   <br><br><br><br>
+                </p>
+                <br><br><br><br>
                 <?php
 
                 include('whatsappherramientas.html');
@@ -445,67 +445,47 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
                 <img src="img/global/deshumidificador.PNG" alt="Deshumificador" class="img-fluid  border rounded">
                 <p class="text-center"><b>DESHUMIFICADOR KRÜGER HIDRA50</b></p><br>
                 <p class="text-justify">
-                Deshumidificadores portátiles para la reducción de la humedad del aire que proporcionan bienestar personal y protegen el género
-almacenado.Idóneos para locales comerciales o particulares, habitaciones, pequeños almacenes, sótanos, granjas, etc.
-Ergonómicos, compactos, de alta calidad y fácil manejo. 
+                    Deshumidificadores portátiles para la reducción de la humedad del aire que proporcionan bienestar personal y protegen el género
+                    almacenado.Idóneos para locales comerciales o particulares, habitaciones, pequeños almacenes, sótanos, granjas, etc.
+                    Ergonómicos, compactos, de alta calidad y fácil manejo.
 
                 </p><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
             </div>
-            
+
 
         </div>
     </div>
-
     <div class="container mt-5">
         <div class="row d-flex justify-content-center">
             <a name="otros"></a>
-           
             <div class="col-sm">
+               
             </div>
            
+    <div class="col-sm">
+        <img src="img/global/lijadoraexcentrica.png" alt="LIJADORA EXCÉNTRICA" class="img-fluid  border rounded">
+        <p class="text-center"><b>LIJADORA EXCÉNTRICA GEX 40-150 PROFESSIONAL</b></p>
+        <p class="text-justify">
+            La lijadora excéntrica de 150 mm de alto rendimiento para acabados profesionales.
+            Carcasa con unidad de lijado desacoplada para una presión de contacto constante, lo que permite unos acabados de superficie de primera clase.
+        </p>
+        <?php
+        include('whatsappherramientas.html');
+        ?>
+    </div>
+            <div class="col-sm">
+              
+            </div>
+           
+
 
         </div>
     </div>
 
-
-    <div class="container mt-5">
-        <div class="row ">
-            <a name="otros"></a>
-            <div class="col-sm">
-            </div>
-            <div class="col-sm">
-                <img src="img/global/lijadoraexcentrica.png" alt="LIJADORA EXCÉNTRICA" class="img-fluid  border rounded">
-                <p class="text-center"><b>LIJADORA EXCÉNTRICA GEX 40-150 PROFESSIONAL</b></p>
-                <p class="text-justify">
-                La lijadora excéntrica de 150 mm de alto rendimiento para acabados profesionales.
-Carcasa con unidad de lijado desacoplada para una presión de contacto constante, lo que permite unos acabados de superficie de primera clase.
-</p><br><br><br><br>
-                <?php
-                include('whatsappherramientas.html');
-                ?>
-            </div>
-          
-          
-        </div>
-    </div>
-    <div class="container mt-5">
-        <div class="row ">
-            <a name="otros"></a>
-            <div class="col-sm">
-                <img src="img/global/nodisponible1.jpg" alt="Deshumificador" class="img-fluid  border rounded">
-                <p class="text-center">Deshumificador 25</p>
-                <?php
-                include('whatsappherramientas.html');
-                ?>
-            </div>
-            <div class="col-sm">
-            </div>
-         
-        </div>
-    </div>
+   
     <div class="footer">
         <?php
         include('footer.php');
