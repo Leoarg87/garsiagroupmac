@@ -70,7 +70,7 @@
                 <p class="text-center"> <b>BOSCH PUNTERO ESTÁNDAR SDS PLUS 250MM</b> </p>
                 <p class="text-justify">
 Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cincelado estándar en hormigón y ladrillos para trabajos de renovación y restauración.
-</p>
+</p><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -78,7 +78,7 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
             <div class="col-12 col-md-6 col-lg-3">
                 <img src="img/global/puntero.png" alt="martillo perforador" class="img-fluid border rounded">
                 <p class="text-center"> <b>PUNTERO ESTANDAR SDS-MAX: 400mm BOSCH</b> </p>
-                <p class="text-justify">Picado y demolición en mampostería y hormigón. Reparación de juntas y eliminación de armados.</p><br>
+                <p class="text-justify">Picado y demolición en mampostería y hormigón. Reparación de juntas y eliminación de armados.</p><br><br><br>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
@@ -97,7 +97,7 @@ Cincel puntiagudo SDS plus 250 mm; Puntero; El puntero SDS plus permite un cince
                 <img src="img/global/cincelpala.png" alt="martillo demoledor" class="img-fluid border rounded">
                 <p class="text-center"> <b>CINCEL SDS-MAX PALA STANDAR 25X400MM DE BOSCH CONSTRUCCION</b> </p>
                 <p class="text-justify">Cincelado estándar para diversas aplicaciones de demolición en hormigón y ladrillo. La arista de corte plana permite una buena eliminación de material en aplicaciones ligeras.
-                </p><br>
+                </p>
                 <?php
                 include('whatsappherramientas.html');
                 ?>
