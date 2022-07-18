@@ -442,7 +442,7 @@
                 ?>
             </div>
             <div class="col-sm">
-                <img src="img/global/deshumidificador.PNG" alt="Deshumificador" class="img-fluid  border rounded">
+                <img src="img/global/deshumidificador.png" alt="Deshumificador" class="img-fluid  border rounded">
                 <p class="text-center"><b>DESHUMIFICADOR KRÜGER HIDRA50</b></p><br>
                 <p class="text-justify">
                     Deshumidificadores portátiles para la reducción de la humedad del aire que proporcionan bienestar personal y protegen el género
