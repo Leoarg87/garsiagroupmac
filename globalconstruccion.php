@@ -214,12 +214,38 @@
     </div>
    
     <!--Categorias -->
+    <div class="container  mt-5 bg-light border rounded">
+    <h3 class="text-center" style="color: #891A1A"> Horarios</h3>
+    <div class="row justify-content-center">
 
-    <div class="footer">
-        <?php
-        include('footer.php');
-        ?>
+      <div class="col-3 mt-3  ">
+        <p class="text-center"style="color: #891A1A">Lunes-Viernes </p>
+      </div>
+      <div class="col-3 mt-3">
+        <p class="text-center"style="color: #891A1A">08:30 - 13:30 <br>
+    15:00 - 18:00 </p>
+      </div>
     </div>
+    <div class="row justify-content-center">
+
+      <div class="col-3">
+        <p class="text-center"style="color: #891A1A">Sabado </p>
+      </div>
+      <div class="col-3">
+        <p class="text-center"style="color: #891A1A">Cerrado</p>
+      </div>
+      </div>
+      <div class="row justify-content-center">
+      <div class="col-3">
+        <p class="text-center"style="color: #891A1A">Domingo </p>
+      </div>
+      <div class="col-3">
+        <p class="text-center"style="color: #891A1A">Cerrado</p>
+      </div>
+      </div>
+    
+
+  </div>
 </body>
 
 </html>
