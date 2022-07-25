@@ -405,7 +405,7 @@
             <a name="limpiadoras"></a>
             <div class="col-sm">
                 <img src="img/global/kacher1.jpeg" alt="limpiadoras" class="img-fluid  border rounded">
-                <p class="text-center"><b>HIDROLIMPIADORA KRACHER K7 PREMIUM FULL CONTROL PLUS </b></p>
+                <p class="text-center"><b>HIDROLIMPIADORA KARCHER K7 PREMIUM FULL CONTROL PLUS </b></p>
                 <p class="text-justify">Es una de las versiones de gama superior con equipamiento de base, lanza full control 3 en 1. Ligeramente diferente estéticamente de las versiones anteriores, esta hidrolimpiadora está diseñada para ser aún más fácil de manejar y eficiente.
                 </p>
                 <br><br><br><br>
@@ -432,7 +432,7 @@
             </div>
             <div class="col-sm">
                 <img src="img/global/hidrolimpiadora.png" alt="limpiadoras" class="img-fluid  border rounded">
-                <p class="text-center"><b>HIDROLIMPIADORA KRACHER HD 9/20 4M </b></p><br>
+                <p class="text-center"><b>HIDROLIMPIADORA KARCHER HD 9/20 4M </b></p><br>
                 <p class="text-justify">
                     La potente limpiadora de alta presión móvil con motor trifásico de 4 polos y marcha lenta, mando por interruptor de presión, lanza pulverizadora regulable y manguera de alta presión con alojamiento giratorio. Por medio del Servo Control se pueden regular con absoluta comodidad el caudal de agua y la presión de trabajo directamente en la pistola.
                 </p><br>
