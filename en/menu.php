@@ -8,7 +8,7 @@
                 <div class="col-12 col-md-2">
                     <div class="row">
                         <img src="icon/ubicacion.png" class="ubicacionimg-fluid" style="height:100%" alt="ubicacion">
-                        <div class="col ">
+                        <div class="col">
                             <p style="font-weight:bold;">LOCATION</p>
                             <a href="https://www.google.com/maps/place/Garsia-G+%7C+Compra-Venta+de+coches+Marbella/@36.500467,-4.9337798,12.87z/data=!4m9!1m2!2m1!1sGarsia!3m5!1s0xd7327a2a3483c21:0x6e0b1cf30df30d31!8m2!3d36.5083301!4d-4.8711367!15sCgZHYXJzaWGSAQthdXRvX2Jyb2tlcg" class="">Calle Narcis Monturiol, 29603 Marbella, Málaga</a>
                         </div>
@@ -41,8 +41,8 @@
 
 
 
-                    <a href="index.html" style="width: 15%;" > <img src="img/españa.png" alt="español" class="img-fluid bandera "></a>
-                    <a href="en/index.html" style="width: 15%;" > <img src="img/english.png" alt="english" class="img-fluid bandera "></a>
+                    <a href="/index.html" style="width: 15%;" > <img src="img/españa.png" alt="español" class="img-fluid bandera "></a>
+                    <a href="index.html" style="width: 15%;" > <img src="img/english.png" alt="english" class="img-fluid bandera "></a>
 
                 
                 </div>
