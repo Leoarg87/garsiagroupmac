@@ -42,7 +42,7 @@
              
 
                     <a href="/index.html"style="width: 15% !important;"> <img src="img/españa.png" alt="español" class="img-fluid " ></a>
-                    <a href="en/index.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
+                    <a href="/indexen.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
 
                 </ul>
                 </div>
@@ -58,7 +58,7 @@
             <div class="collapse navbar-collapse  justify-content-center" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link"href="index.html">Home <span class="sr-only"></span></a>
+                        <a class="nav-link"href="indexen.html">Home <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
 
