@@ -1,14 +1,14 @@
 <body>
-    <div class="container ">
-        <div class="col mt-4 ">
-            <div class="row">
-                <div class="col-2">
-                    <img src="img/logorojo.png" alt="Logo" width="150px" height="auto" class="img-fluid img-thumbnail">
+    <div class="container-fluid ">
+        <div class="col  mt-4 ">
+        <div class="row menu">
+        <div class="col-2"id="logo">
+                    <img src="img/logorojo.png" alt="Logo" width="150px" height="auto" class="img-fluid logo img-thumbnail">
                 </div>
-                <div class="col">
+                <div class="col-3 col-md-2">
                     <div class="row">
                         <img src="icon/ubicacion.png" class="ubicacionimg-fluid" style="height:100%" alt="ubicacion">
-                        <div class="col ml-3">
+                        <div class="col ">
                             <p style="font-weight:bold;">LOCATION</p>
                             <a href="https://www.google.com/maps/place/Garsia-G+%7C+Compra-Venta+de+coches+Marbella/@36.500467,-4.9337798,12.87z/data=!4m9!1m2!2m1!1sGarsia!3m5!1s0xd7327a2a3483c21:0x6e0b1cf30df30d31!8m2!3d36.5083301!4d-4.8711367!15sCgZHYXJzaWGSAQthdXRvX2Jyb2tlcg" class="">Calle Narcis Monturiol, 29603 Marbella, Málaga</a>
                         </div>
@@ -16,28 +16,28 @@
                     </div>
 
                 </div>
-                <div class="col">
+                <div class="col-3 col-md-2">
                     <div class="row">
 
                         <img src="icon/contacto.png" class="contacto img-fluid" style="height:100%" alt="contacto">
 
-                        <div class="col ml-3">
+                        <div class="col">
                             <p style="font-weight:bold;">CONTACT</p>
                             <a href="tel:644 670 883" class="">644 868 883</a> - <a href="tel: 644868833" class=""> 644 670 833</a>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-3 col-md-2 ">
                     <div class="row">
                         <img src="icon/email.png" class="emailimg-fluid" style="height:100%" alt="email">
 
-                        <div class="col-4 ml-3">
+                        <div class="col-3 col-md-2 ">
                             <p style="font-weight:bold;">EMAIL</p>
                             <a href="mailto:info@garsiagroup.com" target="_blank">info@garsiagroup.es</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-2 p-0 d-flex">
+                <div class="col-3 col-md-2 p-0 d-flex idiomas">
          
              
 

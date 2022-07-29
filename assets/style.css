@@ -20,3 +20,22 @@ a:hover, a:focus {
 .legal{
     margin-top: 10px;
 }
+
+
+
+@media (max-width:768px){
+    #logo {display: none !important;}
+    .menu {
+        display: flex !important;
+        flex-direction: column !important;
+      }
+    .idiomas{
+        display: flex !important;
+        justify-content: end !important;
+
+    
+    }
+    .bandera{
+        max-width: 50%!important;
+    }
+}
