@@ -42,7 +42,7 @@
              
 
                     <a href="index.html"style="width: 15% !important;"> <img src="img/españa.png" alt="español" class="img-fluid " ></a>
-                    <a href="indexen.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
+                    <a href="en/index.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
 
                 </ul>
                 </div>
