@@ -42,7 +42,7 @@
              
 
                     <a href="/index.html"style="width: 15% !important;"> <img src="img/españa.png" alt="español" class="img-fluid " ></a>
-                    <a href="/indexen.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
+                    <a href="en/index.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
 
                 </ul>
                 </div>
@@ -58,16 +58,16 @@
             <div class="collapse navbar-collapse  justify-content-center" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link"href="en/indexen.html">Home <span class="sr-only"></span></a>
+                        <a class="nav-link"href="index.html">Home <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="en/compra-venta.php">Buy-Sell</a>
+                        <a class="nav-link"href="compra-venta.php">Buy-Sell</a>
                     </li>
                     <li class="nav-item">
                         <div class="nav-link">
                             <button type="nav-link" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="color:#891A1A;background: none;">
-                            Rent a car
+                                Rent a car
                             </button>
                             <div class="dropdown-menu dropdown-menu"style="position:relative">
                                 <a href="rentcar.php" class="dropdown-item">Home</a>
@@ -78,19 +78,19 @@
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="en/carservice.php">Mechanical Workshop</a>
+                        <a class="nav-link"href="carservice.php">Mechanical Workshop</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="en/krystal.php">Car wash</a>
+                        <a class="nav-link"href="krystal.php">Car wash</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="en/globalconstruccion.php">Tools Rental</a>
+                        <a class="nav-link"href="globalconstruccion.php">Tools Rental</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="en/trasteros.php">Storage Rental</a>
+                        <a class="nav-link"href="trasteros.php">Storage Rental</a>
                     </li>
                 </ul>
             </div>
