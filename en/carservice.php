@@ -12,7 +12,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" type="image/x-icon"href="img/favicon.ico" />
-    <title>Taller Mecanico</title>
+    <title>Taller Garage </title>
 </head>
 
 <body>

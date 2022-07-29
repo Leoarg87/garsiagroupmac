@@ -14,7 +14,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
 
     <link rel="shortcut icon" type="image/x-icon"href="img/favicon.ico" />
-    <title>Alquiler de Coches</title>
+    <title>            Rent a car</title>
     <style>
         .img-fluid:hover {
             opacity: 0.5;

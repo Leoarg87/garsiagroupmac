@@ -18,7 +18,7 @@
         }
     </style>
 
-    <title>Compra Venta</title>
+    <title>Buying & Selling</title>
 </head>
 
 <Car body>

@@ -67,7 +67,7 @@
                     <li class="nav-item">
                         <div class="nav-link">
                             <button type="nav-link" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="color:#891A1A;background: none;">
-                                Alquiler de coches
+                            Rent a car
                             </button>
                             <div class="dropdown-menu dropdown-menu"style="position:relative">
                                 <a href="rentcar.php" class="dropdown-item">Home</a>
