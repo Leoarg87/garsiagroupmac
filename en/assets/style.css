@@ -1,29 +1,41 @@
+
 a {
-  color: #891a1a !important;
-  text-decoration: none;
-  background-image: linear-gradient(currentColor, currentColor);
-  background-position: 0% 100%;
-  background-repeat: no-repeat;
-  background-size: 0% 2px;
-  transition: background-size 0.3s;
+    color: #891A1A !important;
+        text-decoration: none;
+        background-image: linear-gradient(currentColor, currentColor);
+        background-position: 0% 100%;
+        background-repeat: no-repeat;
+        background-size: 0% 2px;
+        transition: background-size .3s;
+        
 }
-a:hover,
-a:focus {
-  background-size: 100% 2px;
+a:hover, a:focus {
+        
+        background-size: 100% 2px;
 }
+    
+
 
 /*footer*/
-.legal {
-  margin-top: 10px;
+.legal{
+    margin-top: 10px;
 }
 
-@media (max-width: 768px) {
-  #logo {
-    display: none !important;
-  }
 
-  .menu {
-    display: flex !important;
-    flex-direction: column !important;
-  }
+
+@media (max-width:768px){
+    #logo {display: none !important;}
+    .menu {
+        display: flex !important;
+        flex-direction: column !important;
+      }
+    .idiomas{
+        display: flex !important;
+        justify-content: end !important;
+
+    
+    }
+    .bandera{
+        max-width: 50%!important;
+    }
 }

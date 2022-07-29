@@ -1,11 +1,11 @@
 <body>
     <div class="container-fluid ">
-        <div class="col  mt-4 ">
-        <div class="row menu">
-        <div class="col-2"id="logo">
+        <div class="col mt-4 ">
+            <div class="row menu d-flex justify-content-center">
+                <div class="col-12 col-md-2" id="logo">
                     <img src="img/logorojo.png" alt="Logo" width="150px" height="auto" class="img-fluid logo img-thumbnail">
                 </div>
-                <div class="col-3 col-md-2">
+                <div class="col-12 col-md-2">
                     <div class="row">
                         <img src="icon/ubicacion.png" class="ubicacionimg-fluid" style="height:100%" alt="ubicacion">
                         <div class="col ">
@@ -16,89 +16,89 @@
                     </div>
 
                 </div>
-                <div class="col-3 col-md-2">
+                <div class="col-12 col-md-2">
                     <div class="row">
 
                         <img src="icon/contacto.png" class="contacto img-fluid" style="height:100%" alt="contacto">
 
-                        <div class="col">
+                        <div class="col ">
                             <p style="font-weight:bold;">CONTACT</p>
                             <a href="tel:644 670 883" class="">644 868 883</a> - <a href="tel: 644868833" class=""> 644 670 833</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-3 col-md-2 ">
+                <div class="col-12 col-md-2">
                     <div class="row">
                         <img src="icon/email.png" class="emailimg-fluid" style="height:100%" alt="email">
 
-                        <div class="col-3 col-md-2 ">
+                        <div class="col ">
                             <p style="font-weight:bold;">EMAIL</p>
                             <a href="mailto:info@garsiagroup.com" target="_blank">info@garsiagroup.es</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-3 col-md-2 p-0 d-flex idiomas">
-         
-             
+                <div class="col-12 col-md-1  p-0 d-flex idiomas">
 
-                    <a href="/index.html"style="width: 15% !important;"> <img src="img/españa.png" alt="español" class="img-fluid " ></a>
-                    <a href="index.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
 
-                </ul>
+
+                    <a href="index.html" style="width: 15%;" > <img src="img/españa.png" alt="español" class="img-fluid bandera "></a>
+                    <a href="en/index.html" style="width: 15%;" > <img src="img/english.png" alt="english" class="img-fluid bandera "></a>
+
+                
                 </div>
             </div>
         </div>
     </div>
     <div class="container">
-    <div class="col mt-5 ">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light " style="border-radius:15px">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse  justify-content-center" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link"href="index.html">Home <span class="sr-only"></span></a>
-                    </li>
-                    <li class="nav-item">
+        <div class="col mt-5 ">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light " style="border-radius:15px">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse  justify-content-center" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+                        </li>
+                        <li class="nav-item">
 
-                        <a class="nav-link"href="compra-venta.php">Buy-Sell</a>
-                    </li>
-                    <li class="nav-item">
-                        <div class="nav-link">
-                            <button type="nav-link" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="color:#891A1A;background: none;">
+                            <a class="nav-link" href="compra-venta.php">Buying & Selling</a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                <button type="nav-link" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="color:#891A1A;background: none;">
                                 Rent a car
-                            </button>
-                            <div class="dropdown-menu dropdown-menu"style="position:relative">
-                                <a href="rentcar.php" class="dropdown-item">Home</a>
-                                <a href="rentcar.php#coches"class="dropdown-item">Cars</a>
-                                <a href="rentcar.php#furgonetas"class="dropdown-item">Vans</a>
+                                </button>
+                                <div class="dropdown-menu dropdown-menu" style="position:relative">
+                                    <a href="rentcar.php" class="dropdown-item">Home</a>
+                                    <a href="rentcar.php#coches" class="dropdown-item">Cars</a>
+                                    <a href="rentcar.php#furgonetas" class="dropdown-item">Vans</a>
+                                </div>
                             </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
+                        </li>
+                        <li class="nav-item">
 
-                        <a class="nav-link"href="carservice.php">Mechanical Workshop</a>
-                    </li>
-                    <li class="nav-item">
+                            <a class="nav-link" href="carservice.php">Mechanical Workshop</a>
+                        </li>
+                        <li class="nav-item">
 
-                        <a class="nav-link"href="krystal.php">Car wash</a>
-                    </li>
-                    <li class="nav-item">
+                            <a class="nav-link" href="krystal.php">Car wash</a>
+                        </li>
+                        <li class="nav-item">
 
-                        <a class="nav-link"href="globalconstruccion.php">Tools Rental</a>
-                    </li>
-                    <li class="nav-item">
+                            <a class="nav-link" href="globalconstruccion.php">Tools hire</a>
+                        </li>
+                        <li class="nav-item">
 
-                        <a class="nav-link"href="trasteros.php">Storage Rental</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
+                            <a class="nav-link" href="trasteros.php">Rental of storage rooms</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
     </div>
-    </div>
-   
-   
-    
-    
+
+
+
+
 </body>
