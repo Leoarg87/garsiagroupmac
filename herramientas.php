@@ -6,12 +6,12 @@
     <meta name="category" content="Spanish, Spain">
     <meta name="description" content="empresa de alquiler y venta de coches y de materiales de construccion">
     <meta name="locality" content="Marbella, Malaga, España">
-    <link rel="stylesheet" href="assets/reset.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="assets/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet"href="assets/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="assets/style.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon"href="img/favicon.ico" />
     <title>Herramientas</title>
 </head>
 
@@ -33,7 +33,7 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3">
                 <img src="img/global/martillo perforador.png" alt="martillo perforador" class="img-fluid border rounded">
-                <p class="text-center"> <b>MARTILLO PERFORADOR BOSCH GBH 2-25</b> </p>
+                <p class="text-center"> <b>Martillo perforador con SDS-plus GBH 3000 Professional</b> </p>
                 <p class="text-justify">Gran avance de perforación y un 20% más de rendimiento de cincelado que otros martillos perforadores de su categoría Valores mínimos de vibración (tan solo 13 m/s²) para un trabajo más cómodo gracias al sistema Vibration Control de Bosch Parada de giro para cincelar Placa de escobillas giratoria para una potencia constante en el giro reversible.</p><br>
                 <?php
                 include('whatsappherramientas.html');

@@ -37,6 +37,15 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-2 p-0 d-flex">
+         
+             
+
+                    <a href="index.html"style="width: 15% !important;"> <img src="img/españa.png" alt="español" class="img-fluid " ></a>
+                    <a href="en/index.html"style="width: 15% !important;"> <img src="img/english.png" alt="english" class="img-fluid "></a>
+
+                </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -49,11 +58,11 @@
             <div class="collapse navbar-collapse  justify-content-center" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+                        <a class="nav-link"href="index.html">Home <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link" href="compra-venta.php">Compra-Venta</a>
+                        <a class="nav-link"href="compra-venta.php">Compra-Venta</a>
                     </li>
                     <li class="nav-item">
                         <div class="nav-link">
@@ -69,19 +78,19 @@
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link" href="carservice.php">Taller Mecanico</a>
+                        <a class="nav-link"href="carservice.php">Taller Mecanico</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link" href="krystal.php">Lavado de coches</a>
+                        <a class="nav-link"href="krystal.php">Lavado de coches</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link" href="globalconstruccion.php">Alquiler de Herramientas</a>
+                        <a class="nav-link"href="globalconstruccion.php">Alquiler de Herramientas</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link" href="trasteros.php">Alquiler de Trasteros</a>
+                        <a class="nav-link"href="trasteros.php">Alquiler de Trasteros</a>
                     </li>
                 </ul>
             </div>

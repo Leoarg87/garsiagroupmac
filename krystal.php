@@ -6,12 +6,12 @@
     <meta name="category" content="Spanish, Spain">
     <meta name="description" content="empresa de alquiler y venta de coches y de materiales de construccion">
     <meta name="locality" content="Marbella, Malaga, España">
-    <link rel="stylesheet" href="assets/reset.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="assets/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet"href="assets/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="assets/style.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon"href="img/favicon.ico" />
     <title>Lavado de coches</title>
 </head>
 
@@ -68,7 +68,7 @@
         <div class="row mt-4 d-flex justify-content-center">
             <div class="col align-self-center">
                 <span style=" font-family: 'impact'; font-size:24px">Tapicería<br></span>
-                <h4 style="color:#891A1A">Limpieza de coche: tapiceria</h4>
+                <h4 style="color:#891A1A">Limpieza de la tapiceria del coche</h4>
                 <p style=" font-family: Poppins;letter-spacing: 0.01em;line-height: 1.6em;">Limpieza completa y exhaustiva de los asientos y la tela del coche con productos específicos para eliminar toda la suciedad y/o manchas.</p>
         </div>
 

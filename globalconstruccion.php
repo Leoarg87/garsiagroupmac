@@ -6,12 +6,12 @@
     <meta name="category" content="Spanish, Spain">
     <meta name="description" content="empresa de alquiler y venta de coches y de materiales de construccion">
     <meta name="locality" content="Marbella, Malaga, España">
-    <link rel="stylesheet" href="assets/reset.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="assets/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet"href="assets/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="assets/style.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon"href="img/favicon.ico" />
     <title>Global Construccion</title>
     <style>
         .fotos:hover {
@@ -115,7 +115,6 @@
                         <h6 class=" hover text-center font-weight-bold">MESAS DE CORTE</h6>
                     </a>
                 </div>
-
             </div>
         </div>
 

@@ -6,12 +6,12 @@
     <meta name="category" content="Spanish, Spain">
     <meta name="description" content="empresa de alquiler y venta de coches y de materiales de construccion">
     <meta name="locality" content="Marbella, Malaga, España">
-    <link rel="stylesheet" href="assets/reset.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="assets/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet"href="assets/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="assets/style.css" type="text/css" media="screen">
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon"href="img/favicon.ico" />
     <style>
         .img-fluid:hover {
             opacity: 0.5;
@@ -88,7 +88,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -108,11 +108,11 @@
                                         <img src="img/venta/LandRover/5.jpeg" class="d-block w-100 img-fluid" alt="LandRover">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -157,7 +157,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -177,11 +177,11 @@
                                         <img src="img/venta/MercedesClaseC/5.jpeg" class="d-block w-100 img-fluid" alt="MercedesClaseC">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls1" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls1" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls1" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls1" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -226,7 +226,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls2" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -246,11 +246,11 @@
                                         <img src="img/venta/FordMustang/5.jpeg" class="d-block w-100 img-fluid" alt="FordMustang">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls2" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls2" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls2" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls2" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -294,7 +294,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls3" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -314,11 +314,11 @@
                                         <img src="img/venta/MercedesClaseE/5.jpeg" class="d-block w-100 img-fluid" alt="MercedesClaseE">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls3" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls3" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls3" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls3" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -363,7 +363,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls4" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -383,11 +383,11 @@
                                         <img src="img/venta/Skoda/5.jpg" class="d-block w-100 img-fluid" alt="Skoda Fabia">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls4" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls4" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls4" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls4" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -432,7 +432,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls5" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -452,11 +452,11 @@
                                         <img src="img/venta/Mazda/5.jpg" class="d-block w-100 img-fluid" alt="Mazda">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls5" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls5" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls5" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls5" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -501,7 +501,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls6" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -521,11 +521,11 @@
                                         <img src="img/venta/volkswagen/5.jpg" class="d-block w-100 img-fluid" alt="volkswagen">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls6" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls6" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls6" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls6" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -570,7 +570,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls7" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -590,11 +590,11 @@
                                         <img src="img/venta/audi/5.jpg" class="d-block w-100 img-fluid" alt="audi">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls7" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls7" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls7" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls7" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
@@ -639,7 +639,7 @@
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container d-flex justify-content-center mt-3">
-                    <div class="col-5">
+                    <div class="col-12">
                         <span aria-hidden="true" class="d-flex justify-content-center">
                             <div id="carouselExampleControls8" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner">
@@ -659,11 +659,11 @@
                                         <img src="img/venta/mustangblanco/5.jpeg" class="d-block w-100 img-fluid" alt="mustangblanco">
                                     </div>
                                 </div>
-                                <a class="carousel-control-prev" href="#carouselExampleControls8" role="button" data-slide="prev">
+                                <a class="carousel-control-prev"href="#carouselExampleControls8" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Previous</span>
                                 </a>
-                                <a class="carousel-control-next" href="#carouselExampleControls8" role="button" data-slide="next">
+                                <a class="carousel-control-next"href="#carouselExampleControls8" role="button" data-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="sr-only">Next</span>
                                 </a>
