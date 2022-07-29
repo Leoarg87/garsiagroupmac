@@ -58,11 +58,11 @@
             <div class="collapse navbar-collapse  justify-content-center" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link"href="indexen.html">Home <span class="sr-only"></span></a>
+                        <a class="nav-link"href="en/indexen.html">Home <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="compra-venta.php">Buy-Sell</a>
+                        <a class="nav-link"href="en/compra-venta.php">Buy-Sell</a>
                     </li>
                     <li class="nav-item">
                         <div class="nav-link">
@@ -78,19 +78,19 @@
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="carservice.php">Mechanical Workshop</a>
+                        <a class="nav-link"href="en/carservice.php">Mechanical Workshop</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="krystal.php">Car wash</a>
+                        <a class="nav-link"href="en/krystal.php">Car wash</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="globalconstruccion.php">Tools Rental</a>
+                        <a class="nav-link"href="en/globalconstruccion.php">Tools Rental</a>
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link"href="trasteros.php">Storage Rental</a>
+                        <a class="nav-link"href="en/trasteros.php">Storage Rental</a>
                     </li>
                 </ul>
             </div>
